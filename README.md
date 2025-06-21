@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/YourImageHere" alt="Coding from home" width="300" align="right">
 
 # Hi, I'm Akshath Narvekar 👋
 
