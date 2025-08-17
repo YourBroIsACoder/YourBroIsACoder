@@ -46,6 +46,7 @@ An Android app that reimagines grocery shopping through **recipe-based ingredien
 - 🥉 **Agnethon (FCRIT)** – Built Zoom-integrated attendance system using Firebase
 - 💡 **Spark-a-thon (FCRIT)** – Proposed **"Aether Mind"**, a no-code AI chatbot using LLMs (Hugging Face)
 - 🌱 **Hackquinox (FCRIT)** – Prototyped farmer marketplace with Map API + agri chatbot demo
+- ⛈️ **Inceptia (PCCOER)** – Prototyped a offline disaster communication system called ResQMesh
 
 ---
 
